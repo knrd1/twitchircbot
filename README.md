@@ -1,4 +1,4 @@
-# ChatGPT
+# Twitch IRC Bot
 
 Twitch IRC Bot checks if twitch stream is online and sends a notification to IRC channel.
 
